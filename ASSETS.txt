@@ -1,0 +1,14 @@
+Source reports: D:/vimproject/2. TechnicalReport.pdf and OperationalReport.pdf, drafts dated 13 October 2026.
+Source images: project architecture and Gold Set Workflow; prototype screenshots cropped from TechnicalReport PDF pages 24-25.
+Mahidol theme and logo: mySkills/skills/mahidol-marp-slides/assets (see upstream skill for provenance).
+Fonts: Noto Sans Thai from Google Fonts, SIL Open Font License.
+Gold Standard principles: explanation of report workflow and recommended evaluation practice; separate development/evaluation set is a next-step recommendation.
+
+Additional image: TechnicalReport PDF page 49, Figure B.1.
+All examples on evidence, annotations and adjudication slides are hypothetical and labelled on-slide.
+
+System concept figure: cropped without content changes from TechnicalReport PDF page 15 (printed page 14), section 2.3; caption and interpretation continue on PDF page 16.
+
+D3: model/provider identifiers transcribed from TechnicalReport PDF pages 26–30; no provider-version validation is implied. D3 is the slide revision, while the source technical report remains Draft 02.
+
+D3 report update: full model-setting identifiers in result charts/tables; Jev mechanism and separate pilot results; Table 3.5 seven text models plus Jev on its separate page; verbatim graph 3.3 explanatory paragraph; all field results for seven text models. Agreement uses report values on a 75-case base without a percentage conversion or accuracy ranking.
